@@ -17,10 +17,10 @@ import (
 	"io"
 	"os"
 
-	"github.com/atotto/clipboard"
 	"github.com/almerleoalmazan/json-beautify/internal/beautify"
 	"github.com/almerleoalmazan/json-beautify/internal/highlight"
 	"github.com/almerleoalmazan/json-beautify/internal/tui"
+	"github.com/atotto/clipboard"
 )
 
 type config struct {
