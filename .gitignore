@@ -1,0 +1,6 @@
+/json-beautify
+.DS_Store
+*.exe
+*.test
+*.out
+coverage.*
