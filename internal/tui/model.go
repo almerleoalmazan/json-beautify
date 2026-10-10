@@ -12,7 +12,7 @@ import (
 	"charm.land/lipgloss/v2"
 	"github.com/atotto/clipboard"
 
-	"json-beautify/internal/highlight"
+	"github.com/almerleoalmazan/json-beautify/internal/highlight"
 )
 
 var (

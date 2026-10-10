@@ -1,4 +1,4 @@
-module json-beautify
+module github.com/almerleoalmazan/json-beautify
 
 go 1.27.2
 
